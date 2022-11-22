@@ -1,0 +1,18 @@
+{
+    "firstName":"Random",
+    "lastName":"Tester",
+    "day":"13",
+    "month":"1",
+    "year":"1998",
+    "email":"Random@mail.com",
+    "companyName":"RandomCompany",
+    "password":"HardPassword",
+    "url":"https://demo.nopcommerce.com",
+    "country":"India",
+    "city":"Delhi",
+    "address":"random234 delhi bazaar",
+    "postalcode":"123456",
+    "phoneNumber":"9876543210",
+    "firstnameChange":"Random1",
+    "lastnameChange":"Tester1"
+}

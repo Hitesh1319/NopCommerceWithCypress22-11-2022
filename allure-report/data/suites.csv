@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 22 19:22:58 IST 2022","Tue Nov 22 19:23:05 IST 2022","7292","","Login Test","","","","Verify user is able to login with valid credentials",""
+"failed","Tue Nov 22 19:23:21 IST 2022","Tue Nov 22 19:23:46 IST 2022","24502","","Adding product into cart and checkout","","","","Verify user is able to add a product to cart and checkout",""
+"passed","Tue Nov 22 19:22:32 IST 2022","Tue Nov 22 19:22:43 IST 2022","10953","","Register Test","","","","Verify user is able to register with valid credentials",""
